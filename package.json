@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "first-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmerkuri/task1-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmerkuri/task1-node/issues"
+  },
+  "homepage": "https://github.com/bmerkuri/task1-node#readme",
+  "description": ""
+}
